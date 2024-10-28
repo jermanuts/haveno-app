@@ -55,9 +55,9 @@ The Haveno Plus app is available as alpha pre-release builds for Android and Win
 
 
 ### Step-by-Step Guides
-1. [How to Install on Desktop](https://haveno.com/documentation/installing-haveno-on-desktop/)
-2. [How to Install on Mobile](https://haveno.com/documentation/install-haveno-on-a-mobile-device/)
-3. [How to Install on Server with Docker](https://haveno.com/documentation/installing-the-haveno-daemon-with-docker-securely/)
+1. [How to Install Haveno on Desktop](https://haveno.com/documentation/installing-haveno-on-desktop/)
+2. [How to Install Haveno on Mobile](https://haveno.com/documentation/install-haveno-on-a-mobile-device/)
+3. [How to Install Haveno on Server with Docker](https://haveno.com/documentation/installing-the-haveno-daemon-with-docker-securely/)
 4. [How to Setup your own Haveno Network](https://haveno.com/documentation/setup-a-custom-haveno-network-seednode-with-docker/)
 
 
