@@ -75,7 +75,7 @@ The project is actively developed full-time for at least the next 2 months. Cont
 
 ## Roadmap
 
-- Dart SDK API ✅
+- Dart SDK API ✅ [Haveno Dart SDK](https://pub.dev/packages/haveno)
 - Complete and release UI - Currently milestone 
 - Windows desktop Support 
 - MacOS desktop support 
