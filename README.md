@@ -27,13 +27,13 @@ Before you begin, you'll need to set up a testing environment:
 
 To ensure all traffic is securely routed through Tor, you must install and activate a Tor VPN relay on your mobile device. The recommended apps are:
 
-- **[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android):** Officially supported by The Tor Project.
-  - [Sourcecode & Releases](https://github.com/guardianproject/orbot/releases/tag/17.3.2-RC-1-tor-0.4.8.12)
-- **[InviZible](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp):** A popular community alternative.
-  - [Sourcecode & Releases](https://github.com/Gedsh/InviZible/releases/tag/v2.3.0-beta)
+- [**Orbot**](https://orbot.app/): Officially supported by The Guardian Project.
+  - [Sourcecode](https://github.com/guardianproject/orbot/)
+- [**InviZible**](https://invizible.net/): A popular alternative with Tor & i2p support.
+  - [Sourcecode](https://github.com/Gedsh/InviZible/)
 
 **Steps:**
-1. Download [Orbot on Google Play](https://play.google.com/store/apps/details?id=org.torproject.android) or [InviZible on Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp).
+1. Download [Orbot](https://orbot.app/) or [InviZible on Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp).
    - Alternatively, download [InviZible on F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/).
 2. Open the app of your choice and follow the on-screen instructions to activate it. Ensure that Tor is enabled and the VPN is activated.
 3. Configure the VPN relay to route your Haveno Plus app traffic through Tor. The app will not load if a VPN relay is not configured first, by design, for your security.
@@ -94,4 +94,4 @@ The project is actively developed full-time for at least the next 2 months. Cont
 Testing on old phones or laptops and providing high-quality feedback is the best way to contribute. A discussion section will be set up for initial feedback and contributions.
 
 ## Additional Resources
-Kewbit the maintainers blog is at [Kewbit.org](https://kewbit.org/) official source and binaries for this are located at [https://haveno.com](Haveno.com) only, there are now also lots of guides located at [haveno documentation](https://haveno.com/documentation/) secion of the site, which are atuned towards the new app.
+Kewbit the maintainers blog is at [Kewbit.org](https://kewbit.org/) official source and binaries for this are located at [Haveno.com](https://haveno.com/) only, there are now also lots of guides located at [haveno documentation](https://haveno.com/documentation/) secion of the site, which are atuned towards the new app.
